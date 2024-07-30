@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 <!--
-## Boas vindas ao meu perfil 💙💙
+ Boas vindas ao meu perfil 💙💙
 Meu nome é Lívia Pêgo
 
 Estou estudando na Alura
